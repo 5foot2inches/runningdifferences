@@ -32,4 +32,4 @@ const randomMessage = () => {
 };
 
 randomMessage();
-randomMessage.map();
+
